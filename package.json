@@ -20207,7 +20207,7 @@
 		"mini-css-extract-plugin": "2.9.2",
 		"mocha": "10.8.2",
 		"ovsx": "0.10.1",
-		"playwright": "1.50.1",
+		"playwright": "1.55.1",
 		"prettier": "3.1.0",
 		"regex-to-strings": "2.1.0",
 		"sass": "1.83.4",
